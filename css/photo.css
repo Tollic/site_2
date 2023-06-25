@@ -1,0 +1,48 @@
+/* .album {
+    position: relative;
+  }
+  
+  .photos {
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+  }
+  
+  .photo {
+    width: 250px;
+    height: 500px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .photo:hover {
+    transform: scale(1.2);
+  }
+  
+  .controls {
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    transform: translateY(-50%);
+  }
+  
+  .prev,
+  .next {
+    width: 30px;
+    height: 30px;
+    background-color: #ffffff;
+    text-align: center;
+    line-height: 30px;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  .prev:hover,
+  .next:hover {
+    background-color: #776c6c;
+  }
+  
+.next{
+    margin-left: 2200%;
+    margin-top: -130%;
+} */
